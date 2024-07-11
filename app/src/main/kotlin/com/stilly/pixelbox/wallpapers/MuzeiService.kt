@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package com.stilly.pixelbox.wallpapers
 
 import dev.jahir.frames.muzei.FramesArtProvider
 
