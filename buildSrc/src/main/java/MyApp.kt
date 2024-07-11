@@ -1,7 +1,7 @@
 @file:Suppress("unused")
 
 object MyApp {
-    const val appId = "dev.jahir.frames.app"
-    const val version = 362
-    const val versionName = "3.6.2"
+    const val appId = "com.stilly.pixelbox.wallpapers"
+    const val version = 8362
+    const val versionName = "PixelBox Test"
 }
