@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package com.stilly.pixelbox.wallpapers
 
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.frames.ui.activities.FramesActivity
